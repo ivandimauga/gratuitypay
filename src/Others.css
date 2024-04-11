@@ -1,0 +1,95 @@
+.select-dropdown {
+  font-family: Arial;
+  font-size: 10px;
+  color: #282828;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #cccccc;
+  width: 25%;
+  cursor: pointer;
+}
+
+.option-dropdown {
+  font-family: Arial;
+  font-size: 10px;
+  color: #282828;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #cccccc;
+  width: 25%;
+  cursor: pointer;
+}
+
+.radio-key {
+  font-family: Arial;
+  font-size: 10px;
+  color: #282828;
+  padding: 5px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.radio-input {
+  cursor: pointer;
+}
+
+.fs-table {
+  margin-left: 50px;
+  width: 90%;
+  border-collapse: collapse;
+}
+
+.fs-tr-header {
+  background-color: #f2f2f2;
+}
+
+.fs-th {
+  font-family: Arial;
+  font-size: 10px;
+  color: #282828;
+  margin-left: 50px;
+  padding: 8px;
+}
+
+.fs-td {
+  text-align: center;
+  padding: '8px';
+}
+
+.fs-td-input {
+  font-family: Arial;
+  font-size: 10px;
+  color: #282828;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #cccccc;
+  width: 70%;
+}
+
+.fs-add-button {
+  font: Arial;
+  font-size: 15px;
+  color: #ffffff;
+  margin-right: 10px;
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #cccccc;
+  border: none;
+  cursor: pointer;
+}
+
+.fs-delete-button {
+  font: Arial;
+  font-size: 15px;
+  color: #ffffff;
+  margin-right: 10px;
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #cccccc;
+  border: none;
+  cursor: pointer;
+}
